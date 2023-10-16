@@ -1,8 +1,6 @@
-👋 Hi, I’m soundsfromsound. Welcome to my GitHub.
+👋 Hi, I’m soundsfromsound. Welcome to my GitHub. I am a composer, sound designer, and educator based in Boston, MA. 
 
-- I am a composer, sound designer, and educator based in Boston, MA. 
-- I use LilyPond to engrave my compositions and you'll find a lot of code snippets here, as well as various config files. 
-- I also will be uploading my full scores here in the future.
+I use LilyPond to engrave my compositions and you'll find my code snippets here, as well as various configuration files. I also will be uploading full perusal scores.
 
 📫 You can contact me here --> soundsfromsound at gmail dot com. 
 
