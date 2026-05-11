@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm soundsfromsound.
+Welcome to my GitHub. I'm a composer, sound designer, and educator based in Boston, MA.
 
-<!--
-**soundsfromsound/soundsfromsound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I use LilyPond to engrave my compositions, and you'll find code snippets and various configuration files shared here. 
+I'll also be uploading perusal scores in the near future.
 
-Here are some ideas to get you started:
+Recently started contributing to open source tools I actually use 🤙
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+- 📫 soundsfromsound at gmail dot com
+- 🌎 https://bit.ly/lemon-pond
+
+<!---
+soundsfromsound/soundsfromsound is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
